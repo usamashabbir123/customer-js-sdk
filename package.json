@@ -1,0 +1,25 @@
+{
+  "name": "customer-js-sdk",
+  "version": "1.0.0",
+  "description": "this library is used for socket connection and enabling live chat connection ",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expertflow/customer-js-sdk.git"
+  },
+  "author": "usama shabbir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/expertflow/customer-js-sdk/issues"
+  },
+  "homepage": "https://github.com/expertflow/customer-js-sdk#readme",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "@types/socket.io-client": "^3.0.0"
+  }
+}
